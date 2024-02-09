@@ -10,4 +10,5 @@ The project uses the following tensor configuration for the input and filter
 ## How to use?
 - Install Visual Studio 2022
 - Open the project using Visual Studio 2022
+- Build the solution which downloads all dependencies
 - Run/debug the project
